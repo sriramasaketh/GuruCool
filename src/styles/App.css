@@ -1,0 +1,17 @@
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.form-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.form-navigation {
+  margin: 20px 0;
+}
+
+button:disabled {
+  opacity: 0.5;
+}
